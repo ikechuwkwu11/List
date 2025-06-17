@@ -13,11 +13,13 @@ List App is a simple and intuitive web application built with Flask that allows 
 - Brainstorming or quick notes
 
 ## 🛠 Built With
-- Layer	Technology
-- Backend	Python, Flask
-- Frontend	HTML, Jinja2
-- Database	SQLite + SQLAlchemy
-- Forms	Flask-WTF (optional, via forms.py)
+| Layer    | Technology             |
+| -------- | ---------------------- |
+| Backend  | Python, Flask          |
+| Frontend | HTML, Jinja2 Templates |
+| Database | SQLite + SQLAlchemy    |
+| Forms    | Flask-WTF (optional)   |
+
 
 ## 🧩 Features to Add (Optional)
 - User authentication (Flask-Login)
